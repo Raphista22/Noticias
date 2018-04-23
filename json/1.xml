@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "question.dtd">
+
+<news>
+	<new id="1">
+		<title>4TA NOTICIA</title>
+		<imgurl>../img/4.png</imgurl>
+		<content>uchas cosas</content>
+	</new>
+	<new id="2">
+		<title>5TA NOTICIA</title>
+		<imgurl>../img/5.png</imgurl>
+		<content>uchas cosas</content>
+	</new>
+	<new id="3">
+		<title>6TA NOTICIA</title>
+		<imgurl>../img/6.png</imgurl>
+		<content>uchas cosas</content>
+	</new>
+</news>
