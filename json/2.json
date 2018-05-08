@@ -1,0 +1,20 @@
+[
+   {
+      "@id": "1",
+      "title": "7TA NOTICIA",
+      "imgurl": "img/4.png",
+      "content": "uchas cosas"
+   },
+   {
+      "@id": "2",
+      "title": "8TA NOTICIA",
+      "imgurl": "img/5.png",
+      "content": "uchas cosas"
+   },
+   {
+      "@id": "3",
+      "title": "9TA NOTICIA",
+      "imgurl": "img/6.png",
+      "content": "uchas cosas"
+   }
+]
