@@ -6,19 +6,19 @@
    {
       "@id": "1",
       "title": "4TA NOTICIA",
-      "imgurl": "../img/4.png",
+      "imgurl": "/img/4.png",
       "content": "uchas cosas"
    },
    {
       "@id": "2",
       "title": "5TA NOTICIA",
-      "imgurl": "../img/5.png",
+      "imgurl": "/img/5.png",
       "content": "uchas cosas"
    },
    {
       "@id": "3",
       "title": "6TA NOTICIA",
-      "imgurl": "../img/6.png",
+      "imgurl": "/img/6.png",
       "content": "uchas cosas"
    }
 ]
