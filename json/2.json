@@ -1,20 +1,20 @@
 [
    {
       "@id": "1",
-      "title": "7TA NOTICIA",
-      "imgurl": "img/4.png",
-      "content": "uchas cosas"
+      "title": "CarMedia, la quinta pantalla para el coche autónomo que viene de Nokia",
+      "imgurl": "img/7.png",
+      "content": "Dos ex directivos de Nokia trabajan desde su salida de Microsoft para llevar una propuesta de entretenimiento, contenidos y eCommerce al futuro coche conectado y autónomo. "
    },
    {
       "@id": "2",
-      "title": "8TA NOTICIA",
-      "imgurl": "img/5.png",
-      "content": "uchas cosas"
+      "title": "Uno de los planetas del sistema TRAPPIST podría ser habitable ",
+      "imgurl": "img/8.png",
+      "content": "Los astrónomos han descubierto que el núcleo de este planeta es de hierro, similar al de la Tierra. "
    },
    {
       "@id": "3",
-      "title": "9TA NOTICIA",
-      "imgurl": "img/6.png",
-      "content": "uchas cosas"
+      "title": "Los museos más raros del mundo",
+      "imgurl": "img/9.png",
+      "content": "Excrementos, sexo, agua, collares de perro, pan, momias, extraterrestres... en esta recopilación encontramos los museos más extraños y espeluznantes. "
    }
 ]
