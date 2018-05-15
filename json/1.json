@@ -5,21 +5,21 @@
 [
    {
       "@id": "1",
-      "title": "4TA NOTICIA",
+      "title": "Alimentos que pueden matarte ",
       "imgurl": "img/4.png",
-      "content": "uchas cosas"
+      "content": "Todos sabemos que el consumo excesivo de ciertos alimentos puede poner en riesgo nuestra salud. Estos son los alimentos más peligrosos del mundo."
    },
    {
       "@id": "2",
-      "title": "5TA NOTICIA",
+      "title": "¿Qué ocurrirá cuando el Sol muera?",
       "imgurl": "img/5.png",
-      "content": "uchas cosas"
+      "content": "Pese a su baja masa, nuestro astro colapsará en una espectacular explosión que dejará tras de sí una nebulosa planetaria, según una investigación. "
    },
    {
       "@id": "3",
-      "title": "6TA NOTICIA",
+      "title": "Las enfermedades más comunes entre mujeres ",
       "imgurl": "img/6.png",
-      "content": "uchas cosas"
+      "content": "Muchas enfermedades afectan tanto a hombres como a mujeres. Sin embargo, algunas en concreto tienen mayor incidencia en pacientes de género femenino."
    }
 ]
 
