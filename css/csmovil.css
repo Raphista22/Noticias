@@ -1,0 +1,48 @@
+html,body{height:100%;}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+#pub {
+	display:none;
+}
+#pubm{
+		border-style:solid;
+	border-width:5px;
+	border-color: green;
+	overflow:hidden;
+	width:100%;
+}
+#logo{
+	width:125px;
+}
+#barra{
+	height:150px;
+	position:absolute;
+}
+#myNavbar{
+	position:absolute;
+	top:150px;
+	background-color:black;
+}
+#imghe{
+	width:100%;
+}
+#cuerpo{
+	margin-top:60px;
+	top:100px;
+	position:relative;
+}
+.pimg {
+	position:relative;
+	width:100%;
+}
+.well{
+	width: 95%;
+	overflow: hidden;
+}
+.imnew{
+	
+	width:50%;
+}
+
+#foo{
+	position:static;
+	margin-top:100px;
+}

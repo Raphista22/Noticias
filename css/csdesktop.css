@@ -1,0 +1,70 @@
+html,body{height:100%;}
+#pub {
+	position: absolute;
+	right: 10px;
+	bottom:450px;
+	border-style:solid;
+	border-width:5px;
+	border-color: green;
+}
+.well{
+	width: 95%;
+	overflow: hidden;
+}
+
+.container-fluid {
+	padding-right:336px;
+	padding-bottom:100px;
+}
+
+.container-well{
+	position:relative;
+}
+
+
+#pubm{
+	display:none;
+	
+}
+
+p{
+	padding-left:100px;
+}
+
+
+.pimg {
+	position:absolute;
+	width:85px;
+}
+
+#logo{
+	width:125px;
+	left:25px;
+	position:absolute;
+	
+}
+#barra{
+	height:150px;
+}
+#myNavbar{
+	position:relative;
+	top:50px;
+	left:130px;
+	background-color:black;
+}
+#log{
+	width:300px;
+	position:relative;
+}
+#cuerpo{
+	top:200px;
+	position:relative;
+}
+
+#foo{
+	position:relative;
+	margin-top:150px;
+}
+#imghe{
+	width:900px;
+}
