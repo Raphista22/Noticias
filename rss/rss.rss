@@ -2,16 +2,23 @@
 <rss version="2.0">
 
 <channel>
- <title>W3Schools Home Page</title>
- <link>https://www.w3schools.com</link>
- <description>Free web building tutorials</description>
+ <title>Breaking News</title>
+ <link>https://rawgit.com/Raphista22/Noticias/master/news.html</link>
+ <description>Noticias de interes general</description>
  <item>
-  <title>RSS Tutorial</title>
-  <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-  <description>New RSS tutorial on W3Schools</description>
+  <title>esús Cardeñosa: ‘Los robots no harán nunca lo que no se les diga que hagan'</title>
+  <link>https://rawgit.com/Raphista22/Noticias/master/new1.html</link>
+  <description>Desde su atalaya de la Universidad Politécnica de Madrid, Jesús Cardeñosa, profesor y doctor en Computación e inteligencia artificial (IA), lidera un equipo de pioneros lingüistas, informáticos y programadores que investigan y desarrollan soluciones basadas en algunas de las técnicas más avanzadas de la IA.</description>
+ </item>
+  <item>
+  <title>¿Qué es el párkinson?</title>
+  <link>https://rawgit.com/Raphista22/Noticias/master/new2.html</link>
+  <description>Fue descrita por primera vez hace más de 200 años por el doctor James Parkinson, concretamente en el año 1817, en su ensayo titulado ‘An essay on the shaking palsy’, y desde entonces, la descripción de la enfermedad de Parkinson no ha cambiado significativamente.</description>
  </item>
  <item>
-  ...
+  <title>El virus de Epstein-Barr, vinculado a siete enfermedades graves</title>
+  <link>https://rawgit.com/Raphista22/Noticias/master/new3.html</link>
+  <description>Un estudio de gran alcance realizado por científicos del Cincinnati Children Hospital Medical Center (EE. UU.) revela que el virus Epstein-Barr, más conocido por causar mononucleosis (popularmente conocida como 'enfermedad del beso'), también aumenta el riesgo para algunas personas de desarrollar otras siete enfermedades importantes.</description>
  </item>
 </channel>
 
