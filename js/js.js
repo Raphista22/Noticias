@@ -2,6 +2,7 @@ var maxnumero=3;
 var numero=1;
 
 
+//Funcion que mide el scroll de la pagina y cuando llega al final carga dichero json ademas cambia texto en boton
 $(function (){
 	$(window).scroll(function (){
 		console.log("ScrollTop: "+ $(window).scrollTop()+
@@ -27,7 +28,7 @@ $(function (){
 	});
 });
 
-
+//funcion cargar json
 function cargar(){
 		$.getJSON("https://rawgit.com/Raphista22/Noticias/master/json/" + numero + ".json", function( jsonObject ) {
 			//en aquest punt l'objecte jsonObject correspon al fitxer
@@ -37,7 +38,7 @@ function cargar(){
 	};
 
 
-
+//funcion que define como poner el contenido del fichero json
 function pintar(json){
 	
 			$.each( json, function( i, noticia ) {
@@ -49,7 +50,7 @@ function pintar(json){
 	
 };
 
-
+//Funcion que hace el carrusel de imagenes en publicidad
 var contador=1;
 var temporizador= setInterval(myTimer, 1000);
 
