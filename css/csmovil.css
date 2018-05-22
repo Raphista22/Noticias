@@ -46,3 +46,10 @@ html,body{height:100%;}
 	position:static;
 	margin-top:100px;
 }
+p{
+	 font-family: "Times New Roman", Times, serif;
+	 font-size:20px;
+	padding-top:20px;
+	text-align:center;
+	text-indent: 15px;
+}
