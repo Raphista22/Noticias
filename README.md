@@ -5,21 +5,25 @@ https://rawgit.com/Raphista22/Noticias/master/news.html
 Esta pagina se ha diseñado a base de plantillas bootstrap,
 
 La pagina principal esta formada por:
--menu de navegacion
--Header
--El cuerpo: lo componen 3 wells y 1 anuncio, todo dentro de un contenedor fluido,
+
+
+<img src="https://lh3.googleusercontent.com/TOdrgJllDgPAb8vlDTP791zy439A6-BqsGMSbNC5J5g-rZZJlZTu3PmqjvyiqBOXHQGBoJLc17CdQMeuUCbx=w1365-h630" />
+-menu de navegacion:
+Compuesto por el icono de la compañia un amplio menu para filtrar noticias por gustos , un area de resgistro prediseñada para cuando se incorpore esa funcion y un buscador de noticias prediseñado para cuando la funcion se incorpore.
+
+
+-El cuerpo: 
+lo componen 3 wells y 1 anuncio, todo dentro de un contenedor fluido,
 dentro de cada well encontramos titulo de noticia , foto en miniatura y la entradilla.
 el anuncio cambia de formato y lugar segun el dispositivo que se este usando para asi dapatarse.
--El footer:Se divide en tres columnas en las que encontraremos las referencias legales
+
+-El footer:
+Se divide en tres columnas en las que encontraremos las referencias legales
 una forma de contactar y una ubicacion.
 
-La pagina de la noticia esta formada por:
 
--menu de navegacion
--El cuerpo: se compone de 1 container fluid y en su interior el titulo de la noticia,
-	con un video de youtube relacionado con la noticia y debajo un elemento de publicidad que varia de tamaño y posicion segun el 
-	tamaño de pantalla,  se abre un parrafo con texto de la noticia seguido de una imagen 
-	de la noticia y lo que falta de el texto 
+-La publicidad se ha diseñado para que funcione de forma rotativa utilizando JavaScript entre 3 imagenes a elegir por el cliente con distintas versiones para distintos tipos de pantalla.
 
--El footer:Se divide en tres columnas en las que encontraremos las referencias legales
-una forma de contactar y una ubicacion.
+-Las noticias se cargaran a traves de ficheros .json, cuando el usuario llegue asta el final de la pagina automaticamente se cargaran las noticias, cuando no haya mas noticias que mostrar el boton que se mostrara disponible cambiara el texto en su interior informando de que no ahy mas noticias este elemento se a compuesto con javascript tambien.
+
+
