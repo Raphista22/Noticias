@@ -2,7 +2,6 @@
 
 https://rawgit.com/Raphista22/Noticias/master/news.html
 
-Esta pagina se ha diseñado a base de plantillas bootstrap,
 
 La pagina principal esta formada por:
 
@@ -12,6 +11,7 @@ Diseño plantilla de el cliente:
 <img src="https://lh3.googleusercontent.com/TOdrgJllDgPAb8vlDTP791zy439A6-BqsGMSbNC5J5g-rZZJlZTu3PmqjvyiqBOXHQGBoJLc17CdQMeuUCbx=w1365-h630" />
 
 
+Esta pagina se ha diseñado a base de plantillas bootstrap,
 
 -menu de navegacion:
 Compuesto por el icono de la compañia un amplio menu para filtrar noticias por gustos , un area de resgistro prediseñada para cuando se incorpore esa funcion y un buscador de noticias prediseñado para cuando la funcion se incorpore.
