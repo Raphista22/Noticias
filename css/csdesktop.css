@@ -28,9 +28,15 @@ html,body{height:100%;}
 }
 
 p{
+	 font-family: "Times New Roman", Times, serif;
+	 font-size:20px;
 	padding-left:100px;
+	text-align:justify;
+	text-indent: 15px;
 }
-
+h2{
+	text-align:justify;
+}
 
 .pimg {
 	position:absolute;
