@@ -1,6 +1,7 @@
 # Noticias
 
-https://rawgit.com/Raphista22/Noticias/master/news.html
+Enlace a la version mimificada
+https://rawgit.com/Raphista22/Noticias/Codigo-Mimificado/news.html
 
 Esta pagina se ha diseñado a base de plantillas bootstrap,
 
