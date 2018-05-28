@@ -3,18 +3,15 @@
 Enlace a la version mimificada
 https://rawgit.com/Raphista22/Noticias/Codigo-Mimificado/news.html
 
-
 La pagina principal esta formada por:
 
 Diseño plantilla de el cliente:
 
 
-<img src="https://lh3.googleusercontent.com/TOdrgJllDgPAb8vlDTP791zy439A6-BqsGMSbNC5J5g-rZZJlZTu3PmqjvyiqBOXHQGBoJLc17CdQMeuUCbx=w1365-h630" />
-
+<img src="https://rawgit.com/Raphista22/Noticias/master/img/plantilla.PNG" />
 
 
 Esta pagina se ha diseñado a base de plantillas bootstrap,
-
 
 -menu de navegacion:
 Compuesto por el icono de la compañia un amplio menu para filtrar noticias por gustos , un area de resgistro prediseñada para cuando se incorpore esa funcion y un buscador de noticias prediseñado para cuando la funcion se incorpore.
@@ -33,4 +30,5 @@ una forma de contactar y una ubicacion.
 -La publicidad se ha diseñado para que funcione de forma rotativa utilizando JavaScript entre 3 imagenes a elegir por el cliente con distintas versiones para distintos tipos de pantalla.
 
 -Las noticias se cargaran a traves de ficheros .json, cuando el usuario llegue asta el final de la pagina automaticamente se cargaran las noticias, cuando no haya mas noticias que mostrar el boton que se mostrara disponible cambiara el texto en su interior informando de que no ahy mas noticias este elemento se a compuesto con javascript tambien.
+
 
