@@ -8,7 +8,7 @@ La pagina principal esta formada por:
 Diseño plantilla de el cliente:
 
 
-<img src="https://lh3.googleusercontent.com/TOdrgJllDgPAb8vlDTP791zy439A6-BqsGMSbNC5J5g-rZZJlZTu3PmqjvyiqBOXHQGBoJLc17CdQMeuUCbx=w1365-h630" />
+<img src="https://rawgit.com/Raphista22/Noticias/master/img/plantilla.PNG" />
 
 
 Esta pagina se ha diseñado a base de plantillas bootstrap,
