@@ -11,8 +11,7 @@ $(function (){
 		
 	if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()){
 		if (numero < 3) {
-		$.getJSON("https://rawgit.com/Raphista22/Noticias/master/json/" + numero + ".json", function( jsonObject ) {
-			pintar( jsonObject );
+		cargar ();
 	
 		})
 		numero++;
