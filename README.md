@@ -34,6 +34,11 @@ una forma de contactar y una ubicación.
 
 En esta versión se ha modificado el fichero JavaScript en la linea 12 hemos cambiado la forma de cargar el fichero json, ademas se ha añadido la posibilidad de habilitar o deshabilitar el scroll con un botón.
 
+
+//comentario javascript:
+
+
+
 $(function (){
 		//Boton para habilitar o deshabilitar cargar con scroll
 		$("#so").click(function() {
@@ -64,16 +69,13 @@ $(function (){
 						//sino cambiamos el valor de texto en boton
 					}else{
 						$('#btn').text('No hay más noticias');
-						};
-					
-					
+						};	
 				//si la funcion scroll esta desactivada
 			}else{
 				//pulsamos el boton para cargar mas noticias
 				$("#btn").click(function (){
 					if (numero < 3) {
 						cargar ();
-									
 						numero++;
 					}else{
 						$('#btn').text('No hay más noticias');
