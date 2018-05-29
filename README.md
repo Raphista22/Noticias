@@ -1,5 +1,6 @@
 # Noticias
-https://rawgit.com/Raphista22/Noticias/master/news.html
+enlace para la pagina con boton scroll
+https://rawgit.com/Raphista22/Noticias/Noticas-con-boton-NOscroll/news.html
 
 
 La pagina principal esta formada por:
@@ -85,3 +86,11 @@ $(function (){
 	});
 });
 
+
+#Los ficheros HTML se han modificado 
+
+En news.html
+Se ha añadido un botón para el apagar o encender el scroll ademas de la corrección de faltas de ortografía
+
+en new1,new2 y new3.html
+Se han corregido las meta-etiquetas y el texto
