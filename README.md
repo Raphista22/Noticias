@@ -30,4 +30,56 @@ una forma de contactar y una ubicación.
 
 -Las noticias se cargaran a través de ficheros .json, cuando el usuario llegue asta el final de la pagina automáticamente se cargaran las noticias, cuando no haya mas noticias que mostrar el botón que se mostrara disponible cambiara el texto en su interior informando de que no hay mas noticias este elemento se a compuesto con JavaScript también.
 
+#JavaScript V2 boton scroll
+
+En esta versión se ha modificado el fichero JavaScript en la linea 12 hemos cambiado la forma de cargar el fichero json, ademas se ha añadido la posibilidad de habilitar o deshabilitar el scroll con un botón.
+
+$(function (){
+		//Boton para habilitar o deshabilitar cargar con scroll
+		$("#so").click(function() {
+			if (scrollbtn){
+				$("#so").text('ScrollOff');
+				alert('cambiado offscroll');
+				scrollbtn=false; 
+				}else{
+				$("#so").text('ScrollOn');
+				alert('cambiado onscroll');
+				scrollbtn=true; 
+				}
+		});
+	//funcion cargar con scroll
+	$(window).scroll(function (){
+		if (scrollbtn) {
+			//medimos la posicion de la pantalla
+			console.log("ScrollTop: "+ $(window).scrollTop()+
+			"\n alto ventana: " + $(window).height() +
+			"\n alto documento: " + $(document).height() +"\n");
+				//cuando la pantalla se encuentre en posicion
+				if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()){
+					//si ela variable numero es menor a 3 cargamos fichero y sumamos el contador
+					if (numero < 3) {
+						cargar ();
+						numero++;	
+						};
+						//sino cambiamos el valor de texto en boton
+					}else{
+						$('#btn').text('No hay más noticias');
+						};
+					
+					
+				//si la funcion scroll esta desactivada
+			}else{
+				//pulsamos el boton para cargar mas noticias
+				$("#btn").click(function (){
+					if (numero < 3) {
+						cargar ();
+									
+						numero++;
+					}else{
+						$('#btn').text('No hay más noticias');
+						};
+				});
+			};
+	});
+});
 
